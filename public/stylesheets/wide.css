@@ -5,6 +5,14 @@ body {
 #page-wrap:after { 
     content: "Wide Layout"; 
 }
+.icon {
+    height: 100px;
+    width: 100px;
+    vertical-align: middle;
+}
+.author {
+    font-size: 1.17em;
+}
 
 nav {
     float: left; 

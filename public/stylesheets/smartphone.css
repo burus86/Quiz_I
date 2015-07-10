@@ -5,6 +5,11 @@ body {
 #page-wrap:after { 
     content: "Smartphone Layout"; 
 }
+.icon {
+    height: 40px;
+    width: 40px;
+    vertical-align: middle;
+}
 
 h2 span, section h3 {
     display: none;
